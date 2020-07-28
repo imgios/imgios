@@ -11,9 +11,9 @@ I'm a Master's Student at the Department of Computer Science of the University o
 Feel free to ask me anything <a href="https://github.com/imgios/imgios/issues">here</a> or drop me an <a href="mailto:g.sulipano@outlook.it?subject=Hi, Giosuè!">email</a> if you want to keep it private!
 
 <h6 align="center">
-    <a href="https://giosuesulipano.it/">giosuesulipano.it</a> · 
-    <a href="https://t.me/imgios">Telegram</a> · 
-    <a href="https://www.linkedin.com/in/imgios/">LinkedIn</a>
+    <a href="https://giosuesulipano.it/" alt="Check out my website!" target="_blank">giosuesulipano.it</a> · 
+    <a href="https://t.me/imgios" alt="Contact me on Telegram!" target="_blank">Telegram</a> · 
+    <a href="https://www.linkedin.com/in/imgios/" alt="Giosuè Sulipano on LinkedIn!" target="_blank">LinkedIn</a>
 </h6>
 <!--
 **imgios/imgios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
