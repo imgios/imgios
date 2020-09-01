@@ -1,4 +1,4 @@
-### Hi there, I'm [Giosuè](https://giosuesulipano.it)! 👋
+### ― Hi there, I'm [Giosuè](https://giosuesulipano.it)! 👋
 
 ```java
 public String greet() {
