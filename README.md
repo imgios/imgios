@@ -1,6 +1,5 @@
-<img src="https://raw.githubusercontent.com/imgios/imgios/master/images/github.gif" align="right" width="128" height="128">
-
 ### ― Hi there, I'm [Giosuè](https://giosuesulipano.it)! 👋
+<img src="https://raw.githubusercontent.com/imgios/imgios/master/images/github.gif" align="right" width="128" height="128">
 
 ```java
 public String greet() {
