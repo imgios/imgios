@@ -19,6 +19,10 @@ Feel free to ask me anything <a href="https://github.com/imgios/imgios/issues">h
   <a href="https://www.linkedin.com/in/imgios/">LinkedIn</a> ·
   <a href="https://mailhide.io/e/Iz4IB">Email</a>
 </h6>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=imgios&color=brightgreen">
+</p>
 <!--
 **imgios/imgios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
