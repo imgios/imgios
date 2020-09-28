@@ -14,8 +14,9 @@ public String greet() {
 Feel free to ask me anything <a href="https://github.com/imgios/imgios/issues">here</a> or drop me an <a href="https://mailhide.io/e/Iz4IB">email</a> if you want to keep it private!
 
 <h6 align="center">
-  <a href="https://giosuesulipano.it/">giosuesulipano.it</a> · 
-  <a href="https://t.me/imgios">Telegram</a> · 
+  <a href="https://giosuesulipano.it/">giosuesulipano.it</a> ·
+  <a href="https://giosuesulipano.it/thoughts">💭 thoughts</a> ·
+  <a href="https://t.me/imgios">Telegram</a> ·
   <a href="https://www.linkedin.com/in/imgios/">LinkedIn</a> ·
   <a href="https://mailhide.io/e/Iz4IB">Email</a>
 </h6>
