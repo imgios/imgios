@@ -20,7 +20,7 @@ Feel free to ask me anything <a href="https://github.com/imgios/imgios/issues">h
 </h6>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=imgios&color=grey&style=flat-square">
+  <img src="https://komarev.com/ghpvc/?username=imgios&color=brightgreen&style=flat-square&abbreviated=true">
 </p>
 <!--
 **imgios/imgios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
